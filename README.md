@@ -1,5 +1,5 @@
-Hey this is KASI !
-<br>Computer science Student.<br>I Love creating new things.<br>
+Hey this is KASI !<br><br>💡 Always exploring new ideas.<br>🛠️ Loves creating things from scratch.<br>🚀 Passionate about coding and technology.
+
 
 
 ## 🌐 Socials:
